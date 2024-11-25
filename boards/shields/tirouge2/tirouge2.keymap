@@ -8,12 +8,12 @@
 
         default_layer {
             bindings = <
-                &kp KP_A     &kp KP_B     &kp KP_C     &kp KP_D     &kp KP_E     &kp KP_F    
-                &kp KP_A     &kp KP_B     &kp KP_C     &kp KP_D     &kp KP_E     &kp KP_F    
-                &kp KP_A     &kp KP_B     &kp KP_C     &kp KP_D     &kp KP_E     &kp KP_F    
-                &kp KP_A     &kp KP_B     &kp KP_C     &kp KP_D     &kp KP_E     &kp KP_F    
-                &kp KP_A     &kp KP_B     &kp KP_C     &kp KP_D     &kp KP_E     &kp KP_F    
-                &kp KP_A     &kp KP_B     &kp KP_C     &kp KP_D     &kp KP_E     &kp KP_F    
+                &kp EXCLAMATION    &kp EXCLAMATION    &kp EXCLAMATION    &kp EXCLAMATION    &kp EXCLAMATION    &kp EXCLAMATION
+                &kp EXCLAMATION    &kp B              &kp Y              &kp O              &kp U              &kp EXCLAMATION
+                &kp EXCLAMATION    &kp C              &kp I              &kp E              &kp A              &kp EXCLAMATION
+                &kp EXCLAMATION    &kp G              &kp X              &kp J              &kp K              &kp EXCLAMATION
+                &kp EXCLAMATION    &kp EXCLAMATION    &kp EXCLAMATION    &kp EXCLAMATION    &kp EXCLAMATION    &kp EXCLAMATION
+                &kp EXCLAMATION    &kp EXCLAMATION    &kp EXCLAMATION    &kp EXCLAMATION    &kp EXCLAMATION    &kp EXCLAMATION
             >;
         };
     };
