@@ -1,0 +1,6 @@
+if SHIELD_TIROUGE2
+
+config ZMK_TIROUGE2
+    default "tirouge2"
+
+endif

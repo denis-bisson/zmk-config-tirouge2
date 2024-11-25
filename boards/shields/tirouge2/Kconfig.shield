@@ -1,0 +1,3 @@
+config SHILED_TIROUGE2
+    def_bool $(shields_list_contains, tirouge2)
+    
