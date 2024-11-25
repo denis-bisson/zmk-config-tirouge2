@@ -1,6 +1,6 @@
 if SHIELD_TIROUGE2
 
-config ZMK_TIROUGE2
+config ZMK_KEYBOARD_NAME
     default "tirouge2"
 
 endif
